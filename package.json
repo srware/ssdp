@@ -1,5 +1,5 @@
 {
-  "name": "@achingbrain/ssdp",
+  "name": "ssdp",
   "description": "Yet another SSDP implementation for node.js",
   "keywords": [
     "ssdp",
@@ -11,13 +11,6 @@
   "license": "ISC",
   "version": "0.0.5",
   "author": "Alex Potsides",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:achingbrain/ssdp.git"
-  },
-  "bugs": {
-    "url": "https://github.com/achingbrain/ssdp/issues"
-  },
   "scripts": {
     "lint": "standard",
     "test": "mocha --recursive --reporter=nyan",
